@@ -1,4 +1,0 @@
-### fraud_detection_portal/frontend/requirements.txt
-
-streamlit
-requests
